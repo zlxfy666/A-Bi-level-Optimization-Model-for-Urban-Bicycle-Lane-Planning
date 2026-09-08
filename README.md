@@ -6,8 +6,6 @@ This repository is a minimal open-source release of the code needed to run:
 - the Bagloee, Sarvi, and Wallace (2016) inspired branch-and-bound baseline;
 - the three retained benchmark network datasets: Sioux Falls, Anaheim, and Eastern Massachusetts.
 
-Generated experiment results, plots, paper drafts, IDE caches, and unrelated baseline implementations have been removed.
-
 ## Repository Contents
 
 ```text
