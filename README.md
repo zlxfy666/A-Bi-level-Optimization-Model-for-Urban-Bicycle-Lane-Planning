@@ -53,7 +53,7 @@ By default this evaluates:
 - demand class count: `1`;
 - value cut: disabled.
 
-The script appends generated results to `results.csv`. That output file is intentionally not included in this open-source release.
+The script appends generated results to `results.csv`.
 
 ## Run the Bagloee et al. Baseline
 
