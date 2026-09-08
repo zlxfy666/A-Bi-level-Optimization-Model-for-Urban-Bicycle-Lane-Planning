@@ -63,7 +63,7 @@ Run the retained Bagloee, Sarvi, and Wallace (2016) inspired baseline on all thr
 python baseline_run.py --networks sf,ema,anaheim --methods bagloee_bb --groups 20 --group-links 1 --budget-share 0.5
 ```
 
-The baseline appends generated rows to `bagloee_bb_baseline_results_with_relative.csv`. That output file is also intentionally not included.
+The baseline appends generated rows to `bagloee_bb_baseline_results_with_relative.csv`.
 
 The baseline corresponds to:
 
